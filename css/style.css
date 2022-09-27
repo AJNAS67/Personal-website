@@ -163,7 +163,9 @@ header {
     padding: 18em 0em 0em;
 }
 .image_margin {
-    margin-top: 8em;
+    margin-top: 20em;
+    /* height: 670px;
+    object-fit:cover ; */
 }
 .agile_banner_info h2 {
     font-size: 40px;
@@ -820,6 +822,12 @@ footer {
 	.contact-right input[type="text"], .contact-right input[type="email"], .contact-right textarea {
 		width: 81%;
 	}
+    .image_margin {
+		margin-top: 20em;
+		padding: 0;
+        
+	}
+
 }
 @media(max-width: 991px) {
 	.navbar-light .navbar-toggler {
@@ -870,6 +878,8 @@ footer {
 	.navbar-light .navbar-nav .dropdown-menu a.nav-link:hover {
 		color: #fff;
 		border: none;
+
+
 		border-bottom: 2px solid #fff;
 	}
 	.agile_banner_info p {
@@ -879,8 +889,9 @@ footer {
 		font-size: 20px;
 	}
 	.image_margin {
-		margin-top: 12em;
+		margin-top: 20em;
 		padding: 0;
+        
 	}
 	.banner-layer, .banner {
 		min-height: 590px;
@@ -1039,112 +1050,4 @@ footer {
 	.agile_banner_info h5 {
 		font-size: 18px;
 	}
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
-}
-@media(max-width:1080px) {
-	
 }
